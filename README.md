@@ -1,0 +1,1 @@
+# sacensibu_kategoriju_kalkulators
